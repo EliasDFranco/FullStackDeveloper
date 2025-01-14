@@ -1,2 +1,1 @@
-Aquí subire todos los proyectos hechos con HTML, CSS y JavaScript.
-Los proyectos hechos con el curso de free Code Camp, en el   curso Full Stack Developer.
+Here, I will upload all the projects made with HTML, CSS, and JavaScript from the Free Code Camp course, as part of the Full Stack Developer program.
